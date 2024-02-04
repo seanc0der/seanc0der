@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fresh from an immersive 6-month Software Engineer course, I'm armed with a strong foundation in Front-End tech like HTML, CSS, and JavaScript, as well as back-end tools such as Node, Vue, Nuxt.js, GraphQL, Git, and Netlify.<br><br>
+Fresh from an immersive 6-month Software Engineer course at [CodeSpace](https://www.codespace.co.za/courses/intro-to-web/), I'm armed with a strong foundation in Front-End tech like HTML, CSS, and JavaScript, as well tools such as Vite, Git, TypeScript, React and Netlify.<br><br>
 ## 🤓 Why Me?
 - 🔧 Problem Solver: Challenges are opportunities for growth and learning.
 - 💻 Technical Enthusiast: Tech isn't just a job; it's my lifelong passion.
